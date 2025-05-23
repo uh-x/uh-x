@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @uh-x
 - 👀 I’m interested in embedded software, software test and data
 - 🌱 I’m currently learning (will update later)
-- 💞️ I’m looking to collaborate on AI, rust, C++
+##- 💞️ I’m looking to collaborate on AI, rust, C++
 - 📫 How to reach me, the best option is email
 - 😄 Pronouns: He/Him (Just as long as you don't insult me, I don't care).
-- ⚡ Fun fact: (I am still searching for that)
+##- ⚡ Fun fact: (I am still searching for that)
 
 - preferences: minimalist typed stuff like this readme
 
