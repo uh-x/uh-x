@@ -9,7 +9,7 @@
 
 - ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,c,cpp,flask,django,py,rust,html,css,js&ptheme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,bash,c,cpp,flask,django,python,rust,html,css,js&ptheme=light)](https://skillicons.dev)
 
 <!---
 ## Top Projects
